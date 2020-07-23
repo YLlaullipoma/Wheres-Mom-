@@ -1,0 +1,61 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.4.4f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=1226 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=10437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5022 outsize=5397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3532 outsize=2681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=10469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1864 outsize=553 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=2134 outsize=5553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1226 outsize=821 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1226 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2863 outsize=198945 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11176 outsize=40753 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=9693 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=10593 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5022 outsize=34577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5022 outsize=3733 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5022 outsize=4101 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3532 outsize=9925 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=32865 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=32873 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=57713 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=10769 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2953 outsize=1329 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1864 outsize=2481 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1864 outsize=553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1505 outsize=1461 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2120 outsize=4097 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
